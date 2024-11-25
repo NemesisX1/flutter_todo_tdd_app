@@ -37,9 +37,9 @@ _\*Djamo Todo Tdd Test works on iOS and Android._
 ---
 
 ## App Screen-shots
-| ![]( assets/flutter_10.png) | ![]( assets/flutter_12.png) | ![]( assets/flutter_01.png) | ![]( assets/flutter_13.png) |
+| ![]( screenshots/flutter_10.png) | ![]( screenshots/flutter_12.png) | ![]( screenshots/flutter_01.png) | ![]( screenshots/flutter_13.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![]( assets/flutter_14.png) | ![]( assets/flutter_02.png) | ![]( assets/flutter_16.png) | ![]( assets/flutter_15.png) |
+| ![]( screenshots/flutter_14.png) | ![]( screenshots/flutter_02.png) | ![]( screenshots/flutter_16.png) | ![]( screenshots/flutter_15.png) |
 
 
 
