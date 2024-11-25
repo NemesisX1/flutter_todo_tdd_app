@@ -18,6 +18,8 @@ Future<void> setupLocator({bool testMode = false}) async {
   late Isar isarInstance;
 
   if (testMode) {
+    await Isar.initializeIsarCore(download: true);
+
     isarInstance = await Isar.open(
       [TodoModelSchema],
       directory: '.',
