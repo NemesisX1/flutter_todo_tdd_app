@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(djamo_todo_tdd_test LANGUAGES CXX)
+project(flutter_todo_app LANGUAGES CXX)
 
-set(BINARY_NAME "djamo_todo_tdd_test")
+set(BINARY_NAME "flutter_todo_app")
 
 cmake_policy(SET CMP0063 NEW)
 

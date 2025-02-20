@@ -1,4 +1,4 @@
-import 'package:djamo_todo_tdd_test/features/todos/data/models/todo_model.dart';
+import 'package:flutter_todo_app/features/todos/data/models/todo_model.dart';
 
 abstract class TodoDataSource {
   Future<TodoModel?> getTodoFromDataSource(int id);

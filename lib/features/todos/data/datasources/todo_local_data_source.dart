@@ -1,5 +1,5 @@
-import 'package:djamo_todo_tdd_test/features/todos/data/datasources/todo_data_source.dart';
-import 'package:djamo_todo_tdd_test/features/todos/data/models/todo_model.dart';
+import 'package:flutter_todo_app/features/todos/data/datasources/todo_data_source.dart';
+import 'package:flutter_todo_app/features/todos/data/models/todo_model.dart';
 import 'package:isar/isar.dart';
 
 class TodoLocalDataSourceImpl implements TodoDataSource {

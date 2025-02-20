@@ -1,6 +1,6 @@
-import 'package:djamo_todo_tdd_test/features/todos/domain/entities/todo.dart';
-import 'package:djamo_todo_tdd_test/features/todos/presentation/bloc/todo_bloc.dart';
-import 'package:djamo_todo_tdd_test/locator.dart';
+import 'package:flutter_todo_app/features/todos/domain/entities/todo.dart';
+import 'package:flutter_todo_app/features/todos/presentation/bloc/todo_bloc.dart';
+import 'package:flutter_todo_app/locator.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:gap/gap.dart';

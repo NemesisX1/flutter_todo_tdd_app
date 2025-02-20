@@ -1,4 +1,4 @@
-import 'package:djamo_todo_tdd_test/features/todos/domain/entities/todo.dart';
+import 'package:flutter_todo_app/features/todos/domain/entities/todo.dart';
 import 'package:isar/isar.dart';
 
 part 'todo_model.g.dart';

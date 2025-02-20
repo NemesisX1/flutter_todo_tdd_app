@@ -1,5 +1,5 @@
-import 'package:djamo_todo_tdd_test/l10n/l10n.dart';
-import 'package:djamo_todo_tdd_test/routes.dart';
+import 'package:flutter_todo_app/l10n/l10n.dart';
+import 'package:flutter_todo_app/routes.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {

@@ -90,11 +90,11 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example.djamo-tdd.djamo-todo-tdd-test" "\0"
-            VALUE "FileDescription", "djamo_todo_tdd_test" "\0"
+            VALUE "FileDescription", "flutter_todo_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "djamo_todo_tdd_test" "\0"
+            VALUE "InternalName", "flutter_todo_app" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example.djamo-tdd.djamo-todo-tdd-test. All rights reserved." "\0"
-            VALUE "OriginalFilename", "djamo_todo_tdd_test.exe" "\0"
+            VALUE "OriginalFilename", "flutter_todo_app.exe" "\0"
             VALUE "ProductName", "Djamo Todo Tdd Test" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END

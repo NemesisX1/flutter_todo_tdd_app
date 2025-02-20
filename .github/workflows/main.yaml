@@ -1,4 +1,4 @@
-name: djamo_todo_tdd_test
+name: flutter_todo_app
 
 concurrency:
   group: $-$

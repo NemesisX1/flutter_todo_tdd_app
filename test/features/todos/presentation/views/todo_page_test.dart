@@ -1,7 +1,7 @@
 import 'package:bloc_test/bloc_test.dart';
-import 'package:djamo_todo_tdd_test/features/todos/presentation/bloc/todo_bloc.dart';
-import 'package:djamo_todo_tdd_test/features/todos/presentation/views/todo_page.dart';
-import 'package:djamo_todo_tdd_test/locator.dart';
+import 'package:flutter_todo_app/features/todos/presentation/bloc/todo_bloc.dart';
+import 'package:flutter_todo_app/features/todos/presentation/views/todo_page.dart';
+import 'package:flutter_todo_app/locator.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
 

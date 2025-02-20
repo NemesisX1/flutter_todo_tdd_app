@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import 'package:djamo_todo_tdd_test/core/shared/failures.dart';
+import 'package:flutter_todo_app/core/shared/failures.dart';
 import 'package:equatable/equatable.dart';
 
 abstract class UseCase<Type, Params> {
