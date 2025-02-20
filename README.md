@@ -36,15 +36,21 @@ _\*Djamo Todo Tdd Test works on iOS and Android._
 
 ---
 
-## App Screenshots
+> ## App Screenshots
 | ![]( assets/flutter_10.png) | ![]( assets/flutter_12.png) | ![]( assets/flutter_01.png) | ![]( assets/flutter_13.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![]( assets/flutter_14.png) | ![]( assets/flutter_02.png) | ![]( assets/flutter_16.png) | ![]( assets/flutter_15.png) |
 
 
+> ## 👀 Overview
+
+I have made:
+
+- a flutter app with [Isar](https://isar.dev/) database for offline support 
+- a flutter app with Clean Code and TDD inspired by Reso Coder's TDD courses
 
 
-## Running Tests 🧪
+> ## Running Tests 🧪
 
 To run all unit and widget tests use the following command:
 
@@ -183,3 +189,5 @@ Alternatively, run `flutter run` and code generation will take place automatical
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
 [very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
 [very_good_cli_link]: https://github.com/VeryGoodOpenSource/very_good_cli
+
+**Elikem Medehou** [![Twitter Follow](https://img.shields.io/twitter/follow/juniormedehou_?label=Follow&style=social)](https://twitter.com/elikemmedehou)
