@@ -29,7 +29,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace "com.example.djamo_tdd.flutter_todo_app"
+    namespace "com.example.futter_tdd.flutter_todo_app"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
@@ -48,7 +48,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.example.djamo_tdd.flutter_todo_app"
+        applicationId "com.example.futter_tdd.flutter_todo_app"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
         minSdkVersion flutter.minSdkVersion
@@ -80,17 +80,17 @@ android {
         production {
             dimension "default"
             applicationIdSuffix ""
-            manifestPlaceholders = [appName: "Djamo Todo Tdd Test"]
+            manifestPlaceholders = [appName: "futter Todo Tdd Test"]
         }
         staging {
             dimension "default"
             applicationIdSuffix ".stg"
-            manifestPlaceholders = [appName: "[STG] Djamo Todo Tdd Test"]
+            manifestPlaceholders = [appName: "[STG] futter Todo Tdd Test"]
         }
         development {
             dimension "default"
             applicationIdSuffix ".dev"
-            manifestPlaceholders = [appName: "[DEV] Djamo Todo Tdd Test"]
+            manifestPlaceholders = [appName: "[DEV] futter Todo Tdd Test"]
         }
     }
 

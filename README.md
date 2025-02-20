@@ -32,7 +32,7 @@ $ flutter run --flavor staging
 $ flutter run --flavor production
 ```
 
-_\*Djamo Todo Tdd Test works on iOS and Android._
+_\*futter Todo Tdd Test works on iOS and Android._
 
 ---
 

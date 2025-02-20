@@ -1,6 +1,6 @@
 {
-    "name": "Djamo Todo Tdd Test",
-    "short_name": "Djamo Todo Tdd Test",
+    "name": "futter Todo Tdd Test",
+    "short_name": "futter Todo Tdd Test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
